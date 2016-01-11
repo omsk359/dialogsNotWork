@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d55d587-fe23-45b8-8038-5ffa33307157" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\Accs\client\AccManager.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\Accs\lib\AccInfo.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\Accs\lib\AccOpTypes.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\Accs\server\VkApi.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\client\components\AccEdit.jsx" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\client\components\AccTable.jsx" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\client\components\AccountsUIWrapper.jsx" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\client\components\Delays.jsx" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\client\components\LogArea.jsx" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\client\components\LoginTest.jsx" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\client\components\MultiTaskDetails.jsx" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\client\components\TaskBoard.jsx" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\client\components\TasksCreator\DialogsHistory.jsx" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\client\components\TasksCreator\IdsIterateTask\Actions.jsx" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\client\components\TasksCreator\IdsIterateTask\Filters.jsx" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\client\components\TasksCreator\IdsIterateTask\IdsSource.jsx" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\client\components\TasksCreator\IdsIterateTask\InviteTask.jsx" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\client\components\TasksCreator\IdsIterateTask\TaskCreator.jsx" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\client\components\TasksCreator\TasksCreator.jsx" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\client\components\TasksCreator\_LikeOutRequests.jsx" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\client\components\helpers.jsx" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\client\components\navigation\AppTopBar.jsx" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\client\components\navigation\LoginForm.jsx" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\client\userData.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\server\AccManager.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\server\AccManager_.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\server\CheckVkTaskInf.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\server\Collections.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\server\DialogsScrapeTask.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\server\IdsIterateTask.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\server\InviterTask.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\server\LikeOutRequestsTask.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\server\SenderTask.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\server\TaskManager.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\server\lib\AResumableTask.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\server\lib\HttpHelpers.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\server\lib\IdsIterateHelpers.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\server\lib\IdsQueue.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\server\lib\MultiAcc.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\server\lib\a_UserData.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\server\methods.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\src\meteom_dialogNotWork\server\start.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/npm-container/.npm/package/.gitignore" afterPath="$PROJECT_DIR$/packages/npm-container/.npm/package/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/App.jsx" afterPath="$PROJECT_DIR$/client/components/App.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/MeteomReact.iml" afterPath="$PROJECT_DIR$/.idea/MeteomReact.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/npm-container/.npm/package/README" afterPath="$PROJECT_DIR$/packages/npm-container/.npm/package/README" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/lib/app.browserify.js" afterPath="$PROJECT_DIR$/client/lib/app.browserify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/meteor_packages_auto_import_browser.xml" afterPath="$PROJECT_DIR$/.idea/libraries/meteor_packages_auto_import_browser.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/npm-container/.npm/package/npm-shrinkwrap.json" afterPath="$PROJECT_DIR$/packages/npm-container/.npm/package/npm-shrinkwrap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/redux/reducers.js" afterPath="$PROJECT_DIR$/client/redux/reducers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/redux/store.js" afterPath="$PROJECT_DIR$/client/redux/store.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/logger/types.js" afterPath="$PROJECT_DIR$/lib/logger/types.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="MeteomReact.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="MeteomReact" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="App.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/components/App.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+              <folding>
+                <marker date="1452408863695" expanded="true" signature="1732:1841" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="store.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/redux/store.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.019562716">
+              <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="types.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/logger/types.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.browserify.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/lib/app.browserify.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/client/AccManager.js" />
+        <option value="$PROJECT_DIR$/Accs/lib/common.js" />
+        <option value="localhost:3000/app/Accs/client/AccManager.js?418c83038c8c4c38d561af3d589d47df630814b3" />
+        <option value="$PROJECT_DIR$/client/components/AccEdit.jsx" />
+        <option value="$PROJECT_DIR$/client/components/Delays.jsx" />
+        <option value="$PROJECT_DIR$/server/Collections.js" />
+        <option value="$PROJECT_DIR$/lib/_errors.js" />
+        <option value="$PROJECT_DIR$/server/methods.js" />
+        <option value="$PROJECT_DIR$/client/components/AccTable.jsx" />
+        <option value="$PROJECT_DIR$/Accs/client/AccManager.js" />
+        <option value="$PROJECT_DIR$/client/redux/middlewares.js" />
+        <option value="$PROJECT_DIR$/client/lib/types.js" />
+        <option value="$PROJECT_DIR$/client/components/TasksCreator/IdsIterateTask/IdsSource.jsx" />
+        <option value="$PROJECT_DIR$/client/components/TopBar.js" />
+        <option value="$PROJECT_DIR$/client/components/AppTopBar.js" />
+        <option value="$PROJECT_DIR$/client/components/LoginTest.jsx" />
+        <option value="$PROJECT_DIR$/packages.json" />
+        <option value="$PROJECT_DIR$/client/components/navigation/AppTopBar.jsx" />
+        <option value="$PROJECT_DIR$/server/AccManager.js" />
+        <option value="$PROJECT_DIR$/client/css/styles.css" />
+        <option value="$PROJECT_DIR$/client/components/TasksCreator/IdsIterateTask/TaskCreator.jsx" />
+        <option value="$PROJECT_DIR$/client/components/TasksCreator/TasksCreator.jsx" />
+        <option value="$PROJECT_DIR$/client/components/TaskBoard.jsx" />
+        <option value="$PROJECT_DIR$/client/components/MultiTaskResults.jsx" />
+        <option value="$PROJECT_DIR$/client/redux/actions.js" />
+        <option value="$PROJECT_DIR$/server/TaskManager.js" />
+        <option value="$PROJECT_DIR$/server/IdsIterateTask.js" />
+        <option value="$PROJECT_DIR$/client/components/TasksCreator/IdsIterateTask/Filters.jsx" />
+        <option value="$PROJECT_DIR$/server/lib/HttpHelpers.js" />
+        <option value="$PROJECT_DIR$/client/components/TasksCreator/IdsIterateTask/InviteTask.jsx" />
+        <option value="$PROJECT_DIR$/client/redux/reducers.js" />
+        <option value="$PROJECT_DIR$/server/lib/IdsQueue.js" />
+        <option value="$PROJECT_DIR$/Accs/server/VkApi.js" />
+        <option value="$PROJECT_DIR$/Accs/lib/AccInfo.js" />
+        <option value="$PROJECT_DIR$/server/lib/IdsIterateHelpers.js" />
+        <option value="$PROJECT_DIR$/.meteor/local/build/programs/server/app/server/lib/MultiAcc.js" />
+        <option value="$PROJECT_DIR$/.meteor/local/build/programs/server/app/lib/Logger.js" />
+        <option value="$PROJECT_DIR$/lib/logger/a_helpers.js" />
+        <option value="$PROJECT_DIR$/server/SenderTask.js" />
+        <option value="$PROJECT_DIR$/server/start.js" />
+        <option value="$PROJECT_DIR$/server/lib/AResumableTask.js" />
+        <option value="$PROJECT_DIR$/server/lib/MultiAcc.js" />
+        <option value="$PROJECT_DIR$/client/components/LogArea.jsx" />
+        <option value="$PROJECT_DIR$/lib/Logger.js" />
+        <option value="$PROJECT_DIR$/client/components/TasksCreator/IdsIterateTask/Actions.jsx" />
+        <option value="$PROJECT_DIR$/client/lib/app.browserify.js" />
+        <option value="$PROJECT_DIR$/lib/logger/types.js" />
+        <option value="$PROJECT_DIR$/client/components/MultiTaskDetails.jsx" />
+        <option value="$PROJECT_DIR$/client/components/App.jsx" />
+        <option value="$PROJECT_DIR$/client/components/navigation/LoginForm.jsx" />
+        <option value="$PROJECT_DIR$/client/redux/store.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>File Watchers</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>LossyEncoding</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MeteomReact" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.meteor.project" value="true" />
+    <property name="js.meteor.library.was.enabled" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="enabled" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="AccEdit2&#9;null&#9;null&#10;AccSe&#9;null&#9;null" />
+    <property name="recentsLimit" value="5" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\meteom\client" />
+      <recent name="C:\dev\meteom\server" />
+      <recent name="D:\dev\src\Meteom\server" />
+      <recent name="D:\dev\src\MeteomReact\server" />
+      <recent name="D:\dev\src\MeteomReact\client\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\meteom\client\components\navigation" />
+      <recent name="C:\dev\meteom\lib\logger" />
+      <recent name="C:\dev\meteom\lib" />
+      <recent name="D:\dev\src\Meteom\Accs\client" />
+      <recent name="C:\dev\meteom\Accs\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Meteor.Run Meteor">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="meteor-app-runner" factoryName="Meteor">
+      <option name="exePath" value="$USER_HOME$/AppData/Local/.meteor/meteor.bat" />
+      <option name="startBrowserSettings">
+        <browser url="http://localhost:3000" />
+      </option>
+      <meteor-runner-state>
+        <startBrowserSettings>
+          <browser url="http://localhost:3000" />
+        </startBrowserSettings>
+      </meteor-runner-state>
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Run Meteor" type="meteor-app-runner" factoryName="Meteor">
+      <option name="exePath" value="$USER_HOME$/AppData/Local/.meteor/meteor.bat" />
+      <option name="startBrowserSettings">
+        <browser start="true" with-js-debugger="true" url="http://localhost:3000" />
+      </option>
+      <meteor-runner-state>
+        <startBrowserSettings>
+          <browser start="true" with-js-debugger="true" url="http://localhost:3000" />
+        </startBrowserSettings>
+      </meteor-runner-state>
+      <method />
+    </configuration>
+    <configuration default="false" name="Run Meteor JavaScript" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:3000">
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Meteor.Run Meteor" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Run Meteor JavaScript" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\horo\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d55d587-fe23-45b8-8038-5ffa33307157" name="Default" comment="" />
+      <created>1447383586202</created>
+      <option name="number" value="Default" />
+      <updated>1447383586202</updated>
+      <workItem from="1450870664956" duration="85000" />
+      <workItem from="1452408357002" duration="585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="670000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4678999" sideWeight="0.5083333" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31838566" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27433154" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34680134" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27272728" sideWeight="0.49166667" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="580" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="meteor-app-runner">
+        <watch expression="this.log" language="JavaScript" />
+        <watch expression="params" language="JavaScript" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client/components/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1452408863695" expanded="true" signature="1732:1841" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/logger/types.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/lib/app.browserify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3091216">
+          <caret line="1495" column="9" selection-start-line="1495" selection-start-column="9" selection-end-line="1495" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/lib/app.browserify.options.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/redux/middlewares.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8846154">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/logger/levels.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/redux/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="19" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/redux/reducers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.meteor/local/build/programs/server/app/lib/Logger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="307" column="12" selection-start-line="307" selection-start-column="12" selection-end-line="307" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/logger/a_helpers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Logger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="106" column="24" selection-start-line="106" selection-start-column="24" selection-end-line="106" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/lib/app.browserify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/logger/types.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding>
+            <marker date="1452408863695" expanded="true" signature="1732:1841" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/redux/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.019562716">
+          <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
